@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="time_to_countdown">Time to countdown:</string>
+    <string name="set_countdown">Set Count Down</string>
+    <string name="highest_notification">Highest Notification:</string>
+    <string name="message_text">Message:</string>
+</resources>
